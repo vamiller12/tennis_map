@@ -1,6 +1,914 @@
 {
     "locations": [
-        {"name": "Location 1", "latitude": 40.7128, "longitude": -74.0060},
-        {"name": "Location 2", "latitude": 34.0522, "longitude": -118.2437}
+        {
+            "name": "HAMILTON (ALEXANDER)",
+            "latitude": 41.76304673,
+            "longitude": -87.63562215,
+            "count": 8,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "HAMLIN (HANNIBAL)",
+            "latitude": 41.9362624,
+            "longitude": -87.6803932,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "HARRISON (CARTER)",
+            "latitude": 41.85742952,
+            "longitude": -87.67220848,
+            "count": 1,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "HIAWATHA",
+            "latitude": 41.94404432,
+            "longitude": -87.8263007,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "HOLLYWOOD",
+            "latitude": 41.98912362,
+            "longitude": -87.71239899,
+            "count": 1,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "HORNER (HENRY)",
+            "latitude": 41.96090833,
+            "longitude": -87.69605294,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "HUMBOLDT (ALEXANDER VON)",
+            "latitude": 41.9060768,
+            "longitude": -87.69751977,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "INDEPENDENCE",
+            "latitude": 41.95216285,
+            "longitude": -87.72361665,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "INDIAN BOUNDARY",
+            "latitude": 42.0089122,
+            "longitude": -87.69467156,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "JACKSON (ANDREW)",
+            "latitude": 41.77951686,
+            "longitude": -87.5856987,
+            "count": 24,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "JACKSON (MAHALIA)",
+            "latitude": 41.74249359,
+            "longitude": -87.63835524,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "JEFFERSON (THOMAS) MEML.",
+            "latitude": 41.96793439,
+            "longitude": -87.76290003,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "JONQUIL",
+            "latitude": 41.92866475,
+            "longitude": -87.65541366,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "KELVYN (WILLIAM)",
+            "latitude": 41.93029845,
+            "longitude": -87.73858578,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "KENNEDY (DENNIS)",
+            "latitude": 41.68661776,
+            "longitude": -87.68136506,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "KENWOOD COMM.",
+            "latitude": 41.80578626,
+            "longitude": -87.59214656,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "KILBOURN",
+            "latitude": 41.94378553,
+            "longitude": -87.7391821,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "KOSCIUSZKO (THADEUZ)",
+            "latitude": 41.93031961,
+            "longitude": -87.72355298,
+            "count": 1,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "LA FOLLETTE (ROBERT)",
+            "latitude": 41.90436992,
+            "longitude": -87.75442259,
+            "count": 1,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "LAKE SHORE",
+            "latitude": 41.89723194,
+            "longitude": -87.6198399,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "LE CLAIRE COURTS - HEARST COMM. CTR.",
+            "latitude": 41.81323223,
+            "longitude": -87.75229104,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "LEGION",
+            "latitude": 41.98816848,
+            "longitude": -87.70910241,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "LERNER (LEO)",
+            "latitude": 42.00703744,
+            "longitude": -87.70500804,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "LINCOLN (ABRAHAM)",
+            "latitude": 41.93410718,
+            "longitude": -87.63269442,
+            "count": 30,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "LINDBLOM (ROBERT)",
+            "latitude": 41.78235295,
+            "longitude": -87.67549471,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "LOYOLA",
+            "latitude": 42.00644341,
+            "longitude": -87.65816288,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "MANDRAKE (HENRY BROWN)",
+            "latitude": 41.82356832,
+            "longitude": -87.60757723,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "MANN (JAMES)",
+            "latitude": 41.65586992,
+            "longitude": -87.5516294,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "MCGUANE (JOHN)",
+            "latitude": 41.84131418,
+            "longitude": -87.64737041,
+            "count": 5,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "MCKINLEY (WILLIAM)",
+            "latitude": 41.824158,
+            "longitude": -87.68390962,
+            "count": 10,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "METCALFE (RALPH)",
+            "latitude": 41.81835626,
+            "longitude": -87.62680287,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "MINUTEMAN",
+            "latitude": 41.78459975,
+            "longitude": -87.76522856,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ABBOTT (ROBERT)",
+            "latitude": 41.72070235,
+            "longitude": -87.62332866,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ADA (SAWYER GARRETT)",
+            "latitude": 41.68781299,
+            "longitude": -87.65658332,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ARMOUR (PHILIP) SQUARE",
+            "latitude": 41.83302162,
+            "longitude": -87.63460577,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ASHE (ARTHUR) BEACH",
+            "latitude": 41.76218871,
+            "longitude": -87.55828553,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ATHLETIC FIELD",
+            "latitude": 41.94715948,
+            "longitude": -87.71673561,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "AVALON",
+            "latitude": 41.74185901,
+            "longitude": -87.59724859,
+            "count": 6,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "BELL (GEORGE,JR.)",
+            "latitude": 41.93486772,
+            "longitude": -87.79592819,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "BESSEMER (HENRY)",
+            "latitude": 41.73112383,
+            "longitude": -87.55617586,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "BEVERLY",
+            "latitude": 41.70668951,
+            "longitude": -87.68381531,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "BLACKHAWK",
+            "latitude": 41.92348722,
+            "longitude": -87.75157757,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "BOGAN (WILLIAM)",
+            "latitude": 41.74711385,
+            "longitude": -87.72152899,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "BRADLEY (JOSEPHINE)",
+            "latitude": 41.71863128,
+            "longitude": -87.56379268,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "BRAINERD",
+            "latitude": 41.72830419,
+            "longitude": -87.65510435,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "BRANDS",
+            "latitude": 41.94160023,
+            "longitude": -87.69956381,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "BROOKS (OSCAR)",
+            "latitude": 42.0100623,
+            "longitude": -87.81021997,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "BROWN (SIDNEY) MEML.",
+            "latitude": 41.7378824,
+            "longitude": -87.60771766,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "CALIFORNIA",
+            "latitude": 41.949977,
+            "longitude": -87.69732251,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "CALUMET",
+            "latitude": 41.71657697,
+            "longitude": -87.53072123,
+            "count": 16,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "CHASE (SALMON)",
+            "latitude": 41.96818654,
+            "longitude": -87.66811959,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "CHOPIN (FREDERIC)",
+            "latitude": 41.94376525,
+            "longitude": -87.76231938,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "CLARENDON COMM. CTR.",
+            "latitude": 41.96217595,
+            "longitude": -87.64901079,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "COLUMBUS (CHRISTOPHER)",
+            "latitude": 41.87726272,
+            "longitude": -87.77342168,
+            "count": 6,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "COOPER (JACK)",
+            "latitude": 41.68100301,
+            "longitude": -87.65586775,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "CORNELL (PAUL) SQUARE",
+            "latitude": 41.80156561,
+            "longitude": -87.66991308,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "COSME (MARGARET)",
+            "latitude": 41.72668742,
+            "longitude": -87.6679406,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "CRAGIN",
+            "latitude": 41.92804902,
+            "longitude": -87.75707998,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "CRESCENT",
+            "latitude": 41.69757203,
+            "longitude": -87.67672497,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "DOUGLASS (ANNA & FREDERICK)",
+            "latitude": 41.86031571,
+            "longitude": -87.69723415,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "MARQUETTE (JACQUES)",
+            "latitude": 41.77058801,
+            "longitude": -87.71087397,
+            "count": 13,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "MARQUETTE (jACQUES)",
+            "latitude": 41.76997971,
+            "longitude": -87.6941359,
+            "count": 1,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "MATHER (STEPHEN TYNG)",
+            "latitude": 41.99011448,
+            "longitude": -87.702584,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "WARREN (LAURENCE)",
+            "latitude": 42.00079923,
+            "longitude": -87.68937339,
+            "count": 6,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "WASHINGTON (GEORGE)",
+            "latitude": 41.78783986,
+            "longitude": -87.61551405,
+            "count": 10,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "DUNBAR (PAUL LAURENCE)",
+            "latitude": 41.84134236,
+            "longitude": -87.62147545,
+            "count": 6,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "DUNHAM (ROBERT)",
+            "latitude": 41.96545079,
+            "longitude": -87.78647695,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "EMMERSON (LOUIS)",
+            "latitude": 41.994614,
+            "longitude": -87.67567421,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "EUCLID",
+            "latitude": 41.71578781,
+            "longitude": -87.63793312,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "FERNWOOD",
+            "latitude": 41.70304294,
+            "longitude": -87.63808947,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "FIELD (EUGENE)",
+            "latitude": 41.97439176,
+            "longitude": -87.72430795,
+            "count": 5,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "FOSTER (J. FRANK)",
+            "latitude": 41.74274396,
+            "longitude": -87.66128893,
+            "count": 7,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "FULLER (MELVILLE)",
+            "latitude": 41.81050626,
+            "longitude": -87.63365194,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "GAGE (GEORGE)",
+            "latitude": 41.79310451,
+            "longitude": -87.68589075,
+            "count": 6,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "GARFIELD (JAMES)",
+            "latitude": 41.8786612,
+            "longitude": -87.71718446,
+            "count": 6,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "GOMPERS (SAMUEL)",
+            "latitude": 41.97394349,
+            "longitude": -87.73283561,
+            "count": 5,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "GRAND CROSSING",
+            "latitude": 41.75644277,
+            "longitude": -87.59963316,
+            "count": 6,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "GRAVER (PHILIP)",
+            "latitude": 41.7082609,
+            "longitude": -87.66098021,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "GREEN BRIAR",
+            "latitude": 41.99115995,
+            "longitude": -87.69608073,
+            "count": 1,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "HALE (NATHAN)",
+            "latitude": 41.7810122,
+            "longitude": -87.77963206,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ROSENBLUM (J. LESLIE)",
+            "latitude": 41.75855511,
+            "longitude": -87.58055818,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "GRANT (ULYSSES)",
+            "latitude": 41.87099473,
+            "longitude": -87.62186172,
+            "count": 12,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "CURIE (MARIE)",
+            "latitude": 41.80244016,
+            "longitude": -87.71951371,
+            "count": 5,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "MOUNT GREENWOOD",
+            "latitude": 41.69067157,
+            "longitude": -87.71490745,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "NICHOLS (JOHN FOUNTAIN)",
+            "latitude": 41.79773862,
+            "longitude": -87.59452873,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "NORWOOD",
+            "latitude": 41.98588336,
+            "longitude": -87.79316455,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "OGDEN (WILLIAM)",
+            "latitude": 41.77283712,
+            "longitude": -87.65516609,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "O'HALLAREN (BERNARD)",
+            "latitude": 41.7414987,
+            "longitude": -87.66855227,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "OLYMPIA",
+            "latitude": 41.99813226,
+            "longitude": -87.81736669,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ORIOLE",
+            "latitude": 41.97745484,
+            "longitude": -87.81479568,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "OWENS (JESSE)",
+            "latitude": 41.73412178,
+            "longitude": -87.5735419,
+            "count": 6,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "OZ",
+            "latitude": 41.92037359,
+            "longitude": -87.64419314,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "PALMER (POTTER)",
+            "latitude": 41.69114858,
+            "longitude": -87.61631634,
+            "count": 6,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "PASTEUR (LOUIS)",
+            "latitude": 41.78797096,
+            "longitude": -87.73065123,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "PETERSON (PEHR SAMUEL)",
+            "latitude": 41.98737973,
+            "longitude": -87.71926702,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "PIOTROWSKI (LILLIAN)",
+            "latitude": 41.83579493,
+            "longitude": -87.73199548,
+            "count": 1,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "PORTAGE",
+            "latitude": 41.95648792,
+            "longitude": -87.76489645,
+            "count": 6,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "RAINBOW BEACH",
+            "latitude": 41.75684052,
+            "longitude": -87.55045534,
+            "count": 12,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "RAINEY (EDWARD)",
+            "latitude": 41.75098042,
+            "longitude": -87.73026431,
+            "count": 1,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "REVERE (PAUL)",
+            "latitude": 41.95276752,
+            "longitude": -87.69100128,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "RIDGE",
+            "latitude": 41.7190438,
+            "longitude": -87.66783752,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "RIIS (JACOB)",
+            "latitude": 41.92712065,
+            "longitude": -87.77932183,
+            "count": 10,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "RIVER",
+            "latitude": 41.97446602,
+            "longitude": -87.70169938,
+            "count": 5,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ROBICHAUX (JOSEPH)",
+            "latitude": 41.72728244,
+            "longitude": -87.634107,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ROGERS (PHILLIP)",
+            "latitude": 42.01454852,
+            "longitude": -87.69532279,
+            "count": 4,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ROGERS (PHILLIP) BEACH",
+            "latitude": 42.02090483,
+            "longitude": -87.66456614,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ROOSEVELT (THEODORE)",
+            "latitude": 41.86777167,
+            "longitude": -87.63013025,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "ROSEDALE",
+            "latitude": 41.98894135,
+            "longitude": -87.78618063,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "RUTHERFORD SAYRE",
+            "latitude": 41.92042844,
+            "longitude": -87.79664011,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "SAUGANASH",
+            "latitude": 41.9872062,
+            "longitude": -87.73736906,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "SENN (NICHOLAS)",
+            "latitude": 41.98938578,
+            "longitude": -87.66897199,
+            "count": 1,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "SHABBONA",
+            "latitude": 41.94323317,
+            "longitude": -87.80111549,
+            "count": 5,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "SHERIDAN (PHILIP HENRY)",
+            "latitude": 41.87010733,
+            "longitude": -87.65506699,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "SHERMAN (JOHN)",
+            "latitude": 41.79832554,
+            "longitude": -87.65835945,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "SMITH (JOSEPH HIGGINS)",
+            "latitude": 41.89344497,
+            "longitude": -87.69137044,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "TAYLOR (ROBERT ROCHON)",
+            "latitude": 41.8072076,
+            "longitude": -87.62822927,
+            "count": 1,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "TOUHY (PATRICK)",
+            "latitude": 42.01408016,
+            "longitude": -87.67465871,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "TRUMBULL (LYMAN)",
+            "latitude": 41.7049325,
+            "longitude": -87.56507908,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "TULEY (MURRAY)",
+            "latitude": 41.72958346,
+            "longitude": -87.60983363,
+            "count": 11,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "UNION",
+            "latitude": 41.88358895,
+            "longitude": -87.66464828,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "VALLEY FORGE",
+            "latitude": 41.78408081,
+            "longitude": -87.79924828,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "VITTUM (HARRIET ELIZABETH)",
+            "latitude": 41.80351706,
+            "longitude": -87.74722572,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "WASHINGTON (HAROLD)",
+            "latitude": 41.79996716,
+            "longitude": -87.58231013,
+            "count": 8,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "WELLES (GIDEON)",
+            "latitude": 41.96161671,
+            "longitude": -87.68661563,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "WEST CHATHAM",
+            "latitude": 41.74527312,
+            "longitude": -87.62952259,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "WEST PULLMAN",
+            "latitude": 41.67030767,
+            "longitude": -87.63255905,
+            "count": 5,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "WHITE (EDWARD)",
+            "latitude": 41.67250864,
+            "longitude": -87.64948894,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "WILDWOOD",
+            "latitude": 42.0066438,
+            "longitude": -87.77933683,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "WILSON (FRANK)",
+            "latitude": 41.96397652,
+            "longitude": -87.75927247,
+            "count": 3,
+            "facility_type": "OUTDOOR"
+        },
+        {
+            "name": "WINNEMAC",
+            "latitude": 41.97349081,
+            "longitude": -87.68382184,
+            "count": 2,
+            "facility_type": "OUTDOOR"
+        }
     ]
 }
