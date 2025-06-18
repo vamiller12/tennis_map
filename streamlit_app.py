@@ -4,8 +4,8 @@ from streamlit_folium import st_folium
 
 # Hardcoded location data
 locations = [
-    {"name": "Location 1", "latitude": 40.7128, "longitude": -74.0060},
-    {"name": "Location 2", "latitude": 34.0522, "longitude": -118.2437}
+    {"name": "HAMILTON (ALEXANDER)", "latitude": 41.76304673, "longitude": -87.63562215},
+    {"name": "HIAWATHA", "latitude": 41.94404507, "longitude": -87.82647101}
 ]
 
 # Streamlit app title
