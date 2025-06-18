@@ -16,6 +16,27 @@
     <div id="map"></div>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script>
+function displayLocationsTable(data) {
+    var table = document.createElement('table');
+    var header = table.createTHead();
+    var headerRow = header.insertRow(0);
+    headerRow.insertCell(0).innerHTML = '<b>Name</b>';
+    headerRow.insertCell(1).innerHTML = '<b>Latitude</b>';
+    headerRow.insertCell(2).innerHTML = '<b>Longitude</b>';
+
+    var tbody = table.createTBody();
+    data.locations.forEach(function(location) {
+        var row = tbody.insertRow();
+        row.insertCell(0).innerHTML = location.name;
+        row.insertCell(1).innerHTML = location.latitude;
+        row.insertCell(2).innerHTML = location.longitude;
+    });
+
+    document.body.appendChild(table);
+}
+
+// Call the function to display the table
+displayLocationsTable(data);
         $(document).ready(function() {
             var data = {
                 "locations": [
